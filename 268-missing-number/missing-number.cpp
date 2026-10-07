@@ -8,8 +8,8 @@ public:
         for(int i=0;i<n;i++){
             s+=nums[i];
         }
-        int r=su-s;
-        return r;
+    
+        return su-s;
 
     }
     
